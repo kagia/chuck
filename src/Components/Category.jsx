@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Card } from 'antd'
 
 const gridStyle = {
-  width: '12em',
+  width: '10em',
   textAlign: 'center'
 }
 
